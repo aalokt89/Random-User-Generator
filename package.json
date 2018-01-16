@@ -1,0 +1,13 @@
+{
+  "name": "random-users",
+  "version": "1.0.0",
+  "description": "run the script.js  and deploy to firebase",
+  "main": "gulpfile.js",
+  "author": "Aalok Trivedi",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-run-command": "0.0.9",
+    "run-sequence": "^2.2.1"
+  }
+}

@@ -1,0 +1,270 @@
+{
+    "results": [
+        {
+            "gender": "Female",
+            "name": {
+                "title": "Miss",
+                "first": "Alice",
+                "last": "Adams"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/38.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+            }
+        },
+        {
+            "gender": "Female",
+            "name": {
+                "title": "Miss",
+                "first": "Sally",
+                "last": "Nguyen"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/67.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Bryan",
+                "last": "Owens"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/19.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Kevin",
+                "last": "Bryant"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/18.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Terrence",
+                "last": "Palmer"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/16.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+            }
+        },
+        {
+            "gender": "Female",
+            "name": {
+                "title": "Miss",
+                "first": "Lucy",
+                "last": "Vargas"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/81.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Frederick",
+                "last": "Herrera"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/30.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Mike",
+                "last": "Berry"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/71.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Juan",
+                "last": "Castro"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/4.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Victor",
+                "last": "Cook"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/48.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+            }
+        },
+        {
+            "gender": "Female",
+            "name": {
+                "title": "Miss",
+                "first": "Anne",
+                "last": "Gilbert"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/34.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Connor",
+                "last": "Webb"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/12.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+            }
+        },
+        {
+            "gender": "Female",
+            "name": {
+                "title": "Miss",
+                "first": "Veronica",
+                "last": "Garza"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/20.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Terrance",
+                "last": "Cooper"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/88.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+            }
+        },
+        {
+            "gender": "Female",
+            "name": {
+                "title": "Miss",
+                "first": "Ella",
+                "last": "Phillips"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/41.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+            }
+        },
+        {
+            "gender": "Female",
+            "name": {
+                "title": "Mrs",
+                "first": "Nevaeh",
+                "last": "Vargas"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/90.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Jared",
+                "last": "Harper"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/33.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Joseph",
+                "last": "Walker"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/0.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Sean",
+                "last": "Morris"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/2.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+            }
+        },
+        {
+            "gender": "Male",
+            "name": {
+                "title": "Mr",
+                "first": "Leroy",
+                "last": "Roberts"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/85.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+            }
+        }
+    ],
+    "info": {
+        "seed": "3bdcc02a504cdca1",
+        "results": 20,
+        "page": 1,
+        "version": "1.1"
+    }
+}
