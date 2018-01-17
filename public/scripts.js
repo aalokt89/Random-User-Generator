@@ -51,13 +51,12 @@ got('https://randomuser.me/api/?results=20&nat=us&inc=name,gender,picture&format
         //write new data to firebase
         database.ref().set(data);
 
-
-
 }).catch(error => {
     console.log(error.response.body);
 });
 
+
 function exit() {
     process.exit();
 }
-setTimeout(exit, 3000);
+setTimeout(exit, 3500);
