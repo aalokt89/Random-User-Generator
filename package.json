@@ -9,5 +9,8 @@
     "gulp": "^3.9.1",
     "gulp-run-command": "0.0.9",
     "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "sugar": "^2.0.4"
   }
 }

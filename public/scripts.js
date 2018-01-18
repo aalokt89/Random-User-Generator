@@ -15,7 +15,8 @@ var database = firebase.database();
 
 const got = require('got'); //module http requests
 var each  = require('foreach'); //module for using forEach
-var jsonfile = require('jsonfile') //module for reading/writing json files
+var jsonfile = require('jsonfile'); //module for reading/writing json files
+var Sugar = require('sugar/string');
 
 //function to capitalize text
 function capitalize(text) {
@@ -24,7 +25,7 @@ function capitalize(text) {
     (text[0].toUpperCase() + text.slice(1));
 };
 
-got('https://randomuser.me/api/?results=20&nat=us&inc=name,gender,picture&format=pretty', {json: true}).then(response => {
+got('https://randomuser.me/api/?seed=seed&results=30&nat=us&inc=picture,name,gender,location,login,email&format=pretty', {json: true}).then(response => {
 
         var data = response.body;
 
@@ -37,6 +38,16 @@ got('https://randomuser.me/api/?results=20&nat=us&inc=name,gender,picture&format
             }
             if (user.gender) {
                 user.gender = capitalize(user.gender);
+            }
+            if (user.location) {
+                //turn postcode into a string so it doesn't mess up the capitalize code
+                user.location.postcode = user.location.postcode.toString()
+
+                //capitalize every word in location
+                for (var loc in user.location) {
+                    user.location[loc] = Sugar.String.capitalize(user.location[loc], true, true);
+                    // console.log(user.location[loc]);
+                }
             }
         });
 
