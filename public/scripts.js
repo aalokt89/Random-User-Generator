@@ -25,7 +25,7 @@ function capitalize(text) {
     (text[0].toUpperCase() + text.slice(1));
 };
 
-got('https://randomuser.me/api/?seed=seed&results=30&nat=us&inc=picture,name,gender,location,login,email&format=pretty', {json: true}).then(response => {
+got('https://randomuser.me/api/?results=30&nat=us&inc=picture,name,gender,location,login,email&format=pretty', {json: true}).then(response => {
 
         var data = response.body;
 
